@@ -1,0 +1,3 @@
+# railsAdmin
+
+Projeto para RailsAdmin 
